@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm İlker</h1>
 <h3 align="center">Information and Technology Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkerklyc" alt="ilkerklyc" /></a> </p>
-
 - 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **C#**
@@ -26,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkerklyc&show_icons=true&locale=en" alt="ilkerklyc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkerklyc&" alt="ilkerklyc" /></p>
+ 
