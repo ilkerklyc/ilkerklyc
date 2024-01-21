@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ilkerkalayci0@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ilkerkalaycı](www.linkedin.com/in/ilkerkalaycı)
+- 📄 https://www.linkedin.com/in/ilker-kalayc%C4%B1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
